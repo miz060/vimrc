@@ -1,0 +1,13 @@
+{
+  "enable_basic_info": true,
+  "enable_security": false,
+  "enable_lsm_security": false,
+  "enable_kernel_cmdline": false,
+  "enable_kernel_modules": false,
+  "enable_sizes": false,
+  "enable_sysext": false,
+  "enable_coredump": false,
+  "enable_filesystem_analysis": true,
+  "enable_services": false,
+  "enable_packages": false
+}
